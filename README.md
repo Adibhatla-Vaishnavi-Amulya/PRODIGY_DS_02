@@ -1,4 +1,4 @@
-# Comprehensive Analysis of Zomato Dataset - Cleaning, Exploratory Data Analysis, and Pattern Identification
+# Comprehensive Analysis of Zomato Dataset - Data Cleaning, Exploratory Data Analysis, and Pattern Identification
 
 ## Overview
 
