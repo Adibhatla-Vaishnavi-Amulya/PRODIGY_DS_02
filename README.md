@@ -17,6 +17,7 @@ https://drive.google.com/file/d/1MbCeCmrX9Vds6JqqjWTiVZONy_IswkXf/view?usp=shari
 - Matplotlib
 - seaborn
 - Pandas
+- Numpy
 
 ## Tools Used
 
