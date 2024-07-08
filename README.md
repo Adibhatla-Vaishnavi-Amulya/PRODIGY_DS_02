@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1MbCeCmrX9Vds6JqqjWTiVZONy_IswkXf/view?usp=shari
 ## Python Libraries Used
 
 - Matplotlib
-- seaborn
+- Seaborn
 - Pandas
 - Numpy
 
